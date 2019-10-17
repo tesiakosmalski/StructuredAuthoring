@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE event SYSTEM "Events_DTD.dtd">
+
+<event type="happening">
+	<name>First Fridays</name>
+	<Summary>These happen every month. Please stop by.</Summary>
+		<Invite> .img </Invite>
+	<Calendar></Calendar>
+		<Date type="start">October 12, 2019</Date>
+		<Date type="end">October 17, 2019</Date>
+		<Time type="start">11AM</Time>
+		<Time type="end">10PM</Time>
+	<Multi-media></Multi-media>
+		<Image type="Home Page">Home Pg.</Image>
+		<Image type="Archive">Last Year's Event</Image>
+		<Image type="Archive">Look at all these people</Image>
+		<participation>Artist 1,2,3,4,5</participation>
+	</event>
+
+<event type="happening">
+	<Name>First Fridays</Name>
+	<Summary>These happen every month. Please stop by.</Summary>
+		<Invite> .img </Invite>
+	<Calendar></Calendar>
+		<Date type="start">October 12, 2019</Date>
+		<Date type="end">October 17, 2019</Date>
+		<Time type="start">11AM</Time>
+		<Time type="end">10PM</Time>
+	<Multi-media></Multi-media>
+		<Image type="Home Page">Home Pg.</Image>
+		<Image type="Archive">Last Year's Event</Image>
+		<Image type="Archive">Look at all these people</Image>
+	</event>

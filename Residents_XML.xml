@@ -1,47 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<event type="happening">
-	<name>First Fridays</name>
-	<Summary>These happen every month. Please stop by.</Summary>
-		<Invite> .img </Invite>
-	<Calendar></Calendar>
-		<Date type="start">October 12, 2019</Date>
-		<Date type="end">October 17, 2019</Date>
-		<Time type="start">11AM</Time>
-		<Time type="end">10PM</Time>
-	<Multi-media></Multi-media>
-		<Image type="Home Page">Home Pg.</Image>
-		<Image type="Archive">Last Year's Event</Image>
-		<Image type="Archive">Look at all these people</Image>
-		<participation>Artist 1,2,3,4,5</participation>
-	</event>
-
-<event type="happening">
-	<Name>First Fridays</Name>
-	<Summary>These happen every month. Please stop by.</Summary>
-		<Invite> .img </Invite>
-	<Calendar></Calendar>
-		<Date type="start">October 12, 2019</Date>
-		<Date type="end">October 17, 2019</Date>
-		<Time type="start">11AM</Time>
-		<Time type="end">10PM</Time>
-	<Multi-media></Multi-media>
-		<Image type="Home Page">Home Pg.</Image>
-		<Image type="Archive">Last Year's Event</Image>
-		<Image type="Archive">Look at all these people</Image>
-	</event>
-
-
+<!DOCTYPE resident SYSTEM "Residents_DTD.dtd">
 
 	<resident type="artist">
-		<name>Jes Shimek</name>
-			<tagline>Jes is a super charged artist.</tagline>
-			<studioname>Jes Studios</studioname>
-					<location>Building 2 Studio 205</location>
-						<year type="active">2017</year>
-					<contact type="email">jes@jesstudios</preferredcontact>
-					<socialmedia type="instagram">@jes</socialmedia>
-					<externalurl>jesstudios.com</externalurl>
+		<name type="first_last">Jes Shimek</name>
+		<name type="studio">Jes Shimek</name>
+		<tagline>Jes is a super charged artist.</tagline>
+			<location type="building">2</location>
+			<location type="suite">207</location>
+			<year type="active">2017</year>
+			<contact type="email">jes@jesstudios</preferredcontact>
+			<socialmedia type="instagram">@jes</socialmedia>
+			<externalurl>jesstudios.com</externalurl>
 			<bio>Jes is a super charged artist.</bio>
 			<resume>file.pdf</resume>
 			<medium>Print Making</medium>
@@ -49,7 +18,7 @@
 			<medium>Painting</medium>
 					<participation>Art Happenings 1</participation>
 
-
+	</resident>
 
 
 
