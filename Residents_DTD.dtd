@@ -1,9 +1,19 @@
 
-<!ELEMENT resident (#PCDATA)>
-<!ATTLIST resident(artist|photographer|theater|maker|craftsperson|scientist) "artist">
+<!ELEMENT resident (name, location, year, contact, socialmedia, externalurl, summary, bioresume, medium, art, participatingevents)>
+<!ATTLIST resident (artist|photographer|theater|maker|craftsperson|scientist) "artist">
 
 <!ELEMENT name (#PCDATA)>
 <!ATTLIST name (first_last|studio) "first_last">
 
-<!ELEMENT name (#PCDATA)>
-<!ATTLIST name (first_last|studio) "first_last">
+<!ELEMENT location (#PCDATA)>
+<!ATTLIST location (building|suite) "suite">
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT socialmedia (#PCDATA)>
+<!ELEMENT externalurl (#PCDATA)>
+<!ELEMENT summary (#PCDATA)>
+<!ELEMENT bioresume (#PCDATA)>
+<!ELEMENT medium (#PCDATA)>
+<!ELEMENT art (#PCDATA)>
+<!ELEMENT participatingevents (#PCDATA)>

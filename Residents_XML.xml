@@ -1,53 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
 <!DOCTYPE resident SYSTEM "Residents_DTD.dtd">
 
-	<resident type="artist">
+	<resident type="artist">Artist
 		<name type="first_last">Jes Shimek</name>
-		<name type="studio">Jes Shimek</name>
-		<tagline>Jes is a super charged artist.</tagline>
+		<name type="studio">Shimek Studios</name>
 			<location type="building">2</location>
 			<location type="suite">207</location>
-			<year type="active">2017</year>
-			<contact type="email">jes@jesstudios</preferredcontact>
+			<year type="active">Active since 2017</year>
+			<contact type="email">jes@jesstudios</contact>
 			<socialmedia type="instagram">@jes</socialmedia>
 			<externalurl>jesstudios.com</externalurl>
-			<bio>Jes is a super charged artist.</bio>
-			<resume>file.pdf</resume>
+			<summary>Jes is a super charged artist.</summary>
+			<bioresume>file.pdf</bioresume>
 			<medium>Print Making</medium>
 			<medium>Photography</medium>
 			<medium>Painting</medium>
-					<participation>Art Happenings 1</participation>
-
-	</resident>
-
-
-
-
-
-
-
-
-		<Summary>These happen every month. Please stop by.</Summary>
-			<Invite> .img </Invite>
-		<Calendar></Calendar>
-			<Date type="start">October 12, 2019</Date>
-			<Date type="end">October 17, 2019</Date>
-			<Time type="start">11AM</Time>
-			<Time type="end">10PM</Time>
-		<Multi-media></Multi-media>
-			<Image type="Home Page">Home Pg.</Image>
-			<Image type="Archive">Last Year's Event</Image>
-			<Image type="Archive">Look at all these people</Image>
-		</event>
-
-
-
-
-	<BusinessCard>
-		<Name>Someone Else</Name>
-		<phone type="mobile">(415) 555-0000</phone>
-		<phone type="work" primary="primary">(800) 555-1111</phone>
-		<phone type="fax">(510) 555-2222</phone>
-		<email>someone@else.com</email>
-	</BusinessCard>
-</BusinessCards>
+			<art>??</art>
+			<participatingevents>Art-a-Whirl</participatingevents>
+   </resident>

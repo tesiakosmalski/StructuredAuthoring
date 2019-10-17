@@ -1,0 +1,119 @@
+
+body {
+  font-family: "Helvetica", sans-serif;
+  padding-left: .75em;
+  padding-right: .75em;
+  padding-top: .75em;
+  /*font-family: Georgia, "Times New Roman",
+        Times, serif;*/
+  color: black;
+  margin: 0;
+  background-color: #}
+}
+
+name {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #DACFE5;
+	width: 300px;
+	display: block;
+	padding: 10pt;
+	border: 1px solid #0D3427;
+	margin: 5px;
+	text-align: left;
+}
+
+resident {
+	color: #0D3427;
+	font-weight: bold;
+	font-size: 140%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+location {
+	color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+location::before {content: attr(type) ": " }
+location[primary]::after {content: " ( " attr(primary) ")")}
+
+year {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+
+contact {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+externalurl {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+
+bioresume {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+
+resume {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+
+medium {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+art {
+  color: #0D3427;
+	font-size: 90%;
+	font-weight: bold;
+	display: block;
+	margin-top: 3%;
+  margin: 5px;
+}
+
+summary {
+  color: #0D3427;
+  font-size: 90%;
+  font-weight: bold;
+  display: block;
+  margin-top: 3%;
+  margin: 5px;
+}
