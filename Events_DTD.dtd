@@ -1,9 +1,2 @@
 
-<!ELEMENT resident (#PCDATA)>
-<!ATTLIST resident(artist|photographer|theater|maker|craftsperson|scientist) "artist">
-
-<!ELEMENT name (#PCDATA)>
-<!ATTLIST name (first_last|studio) "first_last">
-
-<!ELEMENT name (#PCDATA)>
-<!ATTLIST name (first_last|studio) "first_last">
+<!ELEMENTS TBD>
