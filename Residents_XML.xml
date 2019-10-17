@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<event type="happening">
+	<name>First Fridays</name>
+	<Summary>These happen every month. Please stop by.</Summary>
+		<Invite> .img </Invite>
+	<Calendar></Calendar>
+		<Date type="start">October 12, 2019</Date>
+		<Date type="end">October 17, 2019</Date>
+		<Time type="start">11AM</Time>
+		<Time type="end">10PM</Time>
+	<Multi-media></Multi-media>
+		<Image type="Home Page">Home Pg.</Image>
+		<Image type="Archive">Last Year's Event</Image>
+		<Image type="Archive">Look at all these people</Image>
+		<participation>Artist 1,2,3,4,5</participation>
+	</event>
+
+<event type="happening">
+	<Name>First Fridays</Name>
+	<Summary>These happen every month. Please stop by.</Summary>
+		<Invite> .img </Invite>
+	<Calendar></Calendar>
+		<Date type="start">October 12, 2019</Date>
+		<Date type="end">October 17, 2019</Date>
+		<Time type="start">11AM</Time>
+		<Time type="end">10PM</Time>
+	<Multi-media></Multi-media>
+		<Image type="Home Page">Home Pg.</Image>
+		<Image type="Archive">Last Year's Event</Image>
+		<Image type="Archive">Look at all these people</Image>
+	</event>
+
+
+
+	<resident type="artist">
+		<name>Jes Shimek</name>
+			<tagline>Jes is a super charged artist.</tagline>
+			<studioname>Jes Studios</studioname>
+					<location>Building 2 Studio 205</location>
+						<year type="active">2017</year>
+					<contact type="email">jes@jesstudios</preferredcontact>
+					<socialmedia type="instagram">@jes</socialmedia>
+					<externalurl>jesstudios.com</externalurl>
+			<bio>Jes is a super charged artist.</bio>
+			<resume>file.pdf</resume>
+			<medium>Print Making</medium>
+			<medium>Photography</medium>
+			<medium>Painting</medium>
+					<participation>Art Happenings 1</participation>
+
+
+
+
+
+
+
+
+
+
+		<Summary>These happen every month. Please stop by.</Summary>
+			<Invite> .img </Invite>
+		<Calendar></Calendar>
+			<Date type="start">October 12, 2019</Date>
+			<Date type="end">October 17, 2019</Date>
+			<Time type="start">11AM</Time>
+			<Time type="end">10PM</Time>
+		<Multi-media></Multi-media>
+			<Image type="Home Page">Home Pg.</Image>
+			<Image type="Archive">Last Year's Event</Image>
+			<Image type="Archive">Look at all these people</Image>
+		</event>
+
+
+
+
+	<BusinessCard>
+		<Name>Someone Else</Name>
+		<phone type="mobile">(415) 555-0000</phone>
+		<phone type="work" primary="primary">(800) 555-1111</phone>
+		<phone type="fax">(510) 555-2222</phone>
+		<email>someone@else.com</email>
+	</BusinessCard>
+</BusinessCards>
