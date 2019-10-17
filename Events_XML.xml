@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE event SYSTEM "Events_DTD.dtd">
 
+<!--this is IN PROGRESS and doesn't have CSS tags yet -->
+
 <event type="happening">
 	<name>First Fridays</name>
 	<Summary>These happen every month. Please stop by.</Summary>
@@ -20,7 +22,7 @@
 <event type="happening">
 	<Name>First Fridays</Name>
 	<Summary>These happen every month. Please stop by.</Summary>
-		<Invite> .img </Invite>
+		<Invite>.img </Invite>
 	<Calendar></Calendar>
 		<Date type="start">October 12, 2019</Date>
 		<Date type="end">October 17, 2019</Date>
