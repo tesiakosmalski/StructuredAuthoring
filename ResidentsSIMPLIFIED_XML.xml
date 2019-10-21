@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<!DOCTYPE residents SYSTEM "2010_DTD.dtd">
+
+<residents>
+  <resident type="artist">Artist
+    <name type="first_last">Jes Shimek</name>
+    <name type="studio">Shimek Studios</name>
+      <location type="building">2</location>
+      <location type="suite">207</location>
+      <contact type="email">jes@jesstudios</contact>
+      <socialmedia type="instagram">@jes</socialmedia>
+      <medium>Printmaking</medium>
+      <externalurl>jesstudios.com</externalurl>
+      <artimage>xyz.jpg</artimage>
+    </resident>
+  </residents>
