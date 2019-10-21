@@ -1,4 +1,3 @@
-
 <!ELEMENT resident (name, location, contact, socialmedia, medium, externalurl, artimage)>
 
 <!ELEMENT name (#PCDATA)>

@@ -18,7 +18,6 @@
 	</eventtitle>
 </events>
 
-<!--
 <event type="happening">
 	<Name>First Fridays</Name>
 	<Summary>These happen every month. Please stop by.</Summary>
@@ -33,4 +32,4 @@
 		<Image type="Archive">Last Year's Event</Image>
 		<Image type="Archive">Look at all these people</Image>
 	</event>
-</events> -->
+</events>

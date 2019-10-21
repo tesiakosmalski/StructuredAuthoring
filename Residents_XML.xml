@@ -3,6 +3,8 @@
 
 <!DOCTYPE resident SYSTEM "Residents_DTD.dtd">
 
+<!-- tk -->
+<residents>
 	<resident type="artist">Artist
 		<name type="first_last">Jes Shimek</name>
 		<name type="studio">Shimek Studios</name>
@@ -20,3 +22,4 @@
 			<art>??</art>
 			<participatingevents>Art-a-Whirl</participatingevents>
    </resident>
+ </residents>
