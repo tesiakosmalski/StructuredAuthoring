@@ -8,7 +8,16 @@ body {
         Times, serif;*/
   color: black;
   margin: 0;
-  background-color: #}
+  background-color: white
+}
+
+resident {
+	color: #0D3427;
+	font-weight: bold;
+	font-size: 140%;
+	display: block;
+	margin-top: 10px;
+    margin: 5px;
 }
 
 name {
@@ -20,14 +29,7 @@ name {
 	border: 1px solid #0D3427;
 	margin: 5px;
 	text-align: left;
-}
-
-resident {
-	color: #0D3427;
-	font-weight: bold;
-	font-size: 140%;
-	display: block;
-	margin-bottom: 3%;
+	margin-top: 10px;
 }
 
 location {
@@ -50,7 +52,6 @@ year {
 	margin-top: 3%;
   margin: 5px;
 }
-
 
 contact {
   color: #0D3427;
@@ -100,13 +101,14 @@ medium {
   margin: 5px;
 }
 
-art {
+artimage {
   color: #0D3427;
 	font-size: 90%;
 	font-weight: bold;
 	display: block;
 	margin-top: 3%;
-  margin: 5px;
+	margin-bottom: 20px;
+    margin: 5px;
 }
 
 summary {

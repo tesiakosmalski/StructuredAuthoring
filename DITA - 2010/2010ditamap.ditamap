@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>2010DITAMap</title>
+    <topicmeta>
+        <author>Tesia Kosmalski</author>
+        <category>Version 1</category>
+    </topicmeta>
+    <topicref href="findeventlocationinfo.dita" format="dita" type="task"  navtitle="Getting to the Building Event"/>
+    <topicref href="artblok.dita" type="reference" navtitle="What is ArtBlok?" format="dita" importance="high"/> 
+    <topicref href="events.dita"  type="reference" navtitle="ArtBlok Events" format="dita"/> 
+    <topicref href="buildinghistory.dita"  type="reference" navtitle="Building History" format="dita"/>
+    <topicref href="ViewEventBuildingInfo.dita" type="task"/>
+    <topicref href="building_map.dita" type="reference"/>
+    <topicref href="building_map.dita" type="task"/>
+    <topicref href="parti"
+</map>

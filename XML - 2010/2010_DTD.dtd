@@ -1,18 +1,26 @@
 <!ELEMENT resident (name, location, contact, socialmedia, medium, externalurl, artimage)>
+<!ATTLIST resident type (artist|designer|collective) #REQUIRED>
 
 <!ELEMENT name (#PCDATA)>
-<!ATTLIST name (first_last|studio) "first_last" #REQUIRED>
+<!ATTLIST name (first_last|studio) "first_last">
 
 <!ELEMENT location (#PCDATA)>
-<!ATTLIST location (building|suite) "suite">
+<!ATTLIST location type (building|suite) "suite">
 
-<!ELEMENT year (#PCDATA)>
-<!ELEMENT contact (email|phone) "email">
-<!ELEMENT socialmedia (instagram|facebook|pinterest) "instagram">
-<!ELEMENT medium (#PCDATA>
+<!ELEMENT contact (#PCDATA)>
+<!ATTLIST contact type (email|phone) "email">
+
+<!ELEMENT socialmedia (#PCDATA)>
+<!ATTLIST socialmedia type (instagram|facebook|pinterest) "instagram">
+
+<!ELEMENT medium (#PCDATA)>
 <!ELEMENT externalurl (#PCDATA)>
+
+<!--this has to become a jpg somehow-->
 <!ELEMENT artimage (#PCDATA)>
 
+
+<!--EVENTS ELEMENTS-->
 <!ELEMENT events (eventstitle, type, Summary, Dates, Times, EventImage, Caption)>
 <!ELEMENT eventstitle (#PCDATA)>
 <!ELEMENT type (#PCDATA)>
@@ -21,3 +29,5 @@
 <!ELEMENT Times (#PCDATA)>
 <!ELEMENT EventImage (image?)>
 <!ELEMENT Caption (#PCDATA)>
+
+<!ELEMENT year (#PCDATA)>

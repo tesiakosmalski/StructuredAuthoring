@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<!DOCTYPE residents SYSTEM "2010_DTD.dtd">
+
+<residents>
+  <resident type="artist">Musician 
+    <name type="first_last">Ale Andrewxa</name>
+    <name type="studio">Threadmancer</name>
+    <location type="building">?</location>
+    <location type="suite">?</location>
+    <contact type="email">threadmancer@gmail.com</contact>
+    <socialmedia type="instagram">?</socialmedia>
+    <medium>Music</medium>
+    <externalurl>?</externalurl>
+    <artimage>?</artimage>
+    </resident>
+  
+  <resident type="artist">Artist
+    <name type="first_last">John Andrew</name>
+    <location type="building">?</location>
+    <location type="suite">?</location>
+    <contact type="email">ljohnandrew@gmail.com</contact>
+    <socialmedia type="instagram">?</socialmedia>
+    <medium>Sculpture</medium>
+    <externalurl>?</externalurl>
+    <artimage>?</artimage>
+  </resident>
+
+  <resident type="artist">Artist
+    <name type="first_last">Marlaine Cox</name>
+    <name type="studio">?</name>
+    <location type="building">11</location>
+    <location type="suite">?</location>
+    <contact type="phone">612-618-2629</contact>
+    <socialmedia type="instagram">?</socialmedia>
+    <medium>Metalwork</medium>
+    <externalurl>www.marlainecoxmetalworks.com</externalurl>
+    <artimage>?</artimage>
+  </resident>
+
+<resident type="designer">Fashion Designer
+  <name type="first_last">Samantha Crossland</name>
+  <name type="studio">?</name>
+  <location type="building">2</location>
+  <location type="suite">10#</location>
+  <contact type="email">srei.crossland@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Fashion Design</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Edith Ann Dalleska</name>
+  <name type="studio">UpCyclings</name>
+  <location type="building">8</location>
+  <location type="suite">104</location>
+  <contact type="email">fedx@usfamily.net</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Textiles</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Publisher
+  <name type="first_last">Jane Dickerson</name>
+  <name type="studio">Levin Publishing</name>
+  <location type="building">?</location>
+  <location type="suite">?</location>
+  <contact type="email">jdickerson55108@icloud.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Publisher</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Eva Donaghue</name>
+  <name type="studio">?</name>
+  <location type="building">3</location>
+  <location type="suite">?</location>
+  <contact type="email">eva@evasetceteraetc.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Doll and figure making</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Karlyn Eckman</name>
+  <name type="studio">?</name>
+  <location type="building">10A</location>
+  <location type="suite">203</location>
+  <contact type="email">eckma001@umn.edu</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Painting</medium>
+  <externalurl>www.eckmanart.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="studio">The Elixery</name>
+  <location type="building">3</location>
+  <location type="suite">?</location>
+  <contact type="email">info@elixery.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Cosmetics</medium>
+  <externalurl>elixery.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Nicole Fierce</name>
+  <name type="studio">?</name>
+  <location type="building">10</location>
+  <location type="suite">Mezzanine</location>
+  <contact type="email">fierce.nicole@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Glassblowing</medium>
+  <externalurl> www.fiercedesign.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Collective
+  <name type="studio">FOCI / Kelly Nezworski</name>
+  <location type="building">10</location>
+  <location type="suite">?</location>
+  <contact type="email">contact@mnglassart.org</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Glassblowing</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Rick Fournier</name>
+  <name type="studio">?</name>
+  <location type="building">7</location>
+  <location type="suite">212</location>
+  <contact type="email">kandrfournier@msn.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Painting</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Kathie Simon Frank</name>
+  <name type="studio">?</name>
+  <location type="building">2</location>
+  <location type="suite">207</location>
+  <contact type="email">jkathie@umn.edu</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Textiles</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Asa Hoyt</name>
+  <name type="studio">?</name>
+  <location type="building">11</location>
+  <location type="suite">?</location>
+  <contact type="email">awhoyt@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Metal Sculpture</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Bo Jacobson</name>
+  <name type="first_last">Paulina Jacobson</name>
+  <location type="building">11</location>
+  <location type="suite">?</location>
+  <contact type="email">?</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>?</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="designer">Designer
+  <name type="first_last">Shawn Kearney</name>
+  <name type="studio">Shawn Art and Design</name>
+  <location type="building">8</location>
+  <location type="suite">202</location>
+  <contact type="email">shawnartndesign@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Multimedia</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Jana Komaritsa</name>
+  <name type="studio">?</name>   
+  <location type="building">3</location>
+  <location type="suite">205</location>
+  <contact type="email">info@mrakmur.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>?</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Tesia Kosmalski</name>
+  <location type="building">2</location>
+  <location type="suite">205</location>
+  <contact type="email">tesiak@gmail.com</contact>
+  <socialmedia type="instagram">@tesiak</socialmedia>
+  <medium>Multimedia</medium>
+  <externalurl>tesiakosmalski.net</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Graphic Designer
+  <name type="first_last">Keith Kroschel</name>
+  <name type="studio">Nu-Vue Studio</name>
+  <location type="building">7</location>
+  <location type="suite">208</location>
+  <contact type="email">Nu-vuestudio@yahoo.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Mapmaking</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Deb Lavoie</name>
+  <name type="studio">?</name>
+  <location type="building">10A</location>
+  <location type="suite">201</location>
+  <contact type="email">lavoie2449@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Painting</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Anna Little</name>
+  <name type="studio">Duluth Candle Company</name>
+  <location type="building">?</location>
+  <location type="suite">?</location>
+  <contact type="email">annaelittle26@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Candlemaking</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Erin Maurelli</name>
+  <name type="suite">?</name>
+  <location type="building">2</location>
+  <location type="suite">210</location>
+  <contact type="email">erin@erinmaurelli.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Printmaking</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Marty McConnell</name>
+  <name type="studio">Dysthemic Bliss</name>
+  <location type="building">3</location>
+  <location type="suite">?</location>
+  <contact type="email">Malenkia13@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Collage</medium>
+  <externalurl>dysthemicbliss.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Melissa Nellis</name>
+  <name type="studio">Melissa Nellis Studio</name>
+  <location type="building">6</location>
+  <location type="suite">110</location>
+  <contact type="email">Nelli001@mac.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Fiber Art</medium>
+  <externalurl>MelissaNellisStudio.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artistr">Artist
+  <name type="first_last">Meghan Nelson</name>
+  <name type="studio">Dottir Jewelry</name>
+  <location type="building">2</location>
+  <location type="suite">210</location>
+  <contact type="email">meghannelson@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Jewelry</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="photographer">Photographer
+  <name type="first_last">Caitlyn Nightingale</name>
+  <name type="studio">Nightingale Studios</name>
+  <location type="building">?</location>
+  <location type="suite">?</location>
+  <contact type="email">caitlin@caitlinnightingale.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Photography</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Jeanette Papenfuss</name>
+  <name type="studio">Jeanette Papenfuss Studio</name>
+  <location type="building">3</location>
+  <location type="suite">202</location>
+  <contact type="email">Jeanette.papenfuss@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Painting</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">David Pisa</name>
+  <name type="studio">Walking Shadow Theater Company</name>
+  <location type="building">2</location>
+  <location type="suite">?</location>
+  <contact type="email">david@walkingshadowcompany.org</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Theater</medium>
+  <externalurl>walkingshadowcompany.org</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Amanda Porter</name>
+  <name type="studio">?</name>
+  <location type="building">2</location>
+  <location type="suite">210</location>
+  <contact type="email">amandaporterartist@gmail.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Textiles</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Mary Rannestad</name>
+  <name type="studio">?</name>
+  <location type="building">8</location>
+  <location type="suite">205</location>
+  <contact type="email">mariijanne@live.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Painting</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Larry Rostad</name>
+  <name type="studio">?</name>
+  <location type="building">8</location>
+  <location type="suite">204</location>
+  <contact type="email">lcrostad@juno.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Printmaking</medium>
+  <externalurl>jesstudios.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="first_last">Jes Lee Shimek</name>
+  <name type="studio">?</name>
+  <location type="building">2</location>
+  <location type="suite">210</location>
+  <contact type="email">jes@jesstudios</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Printmaking</medium>
+  <externalurl>jesstudios.com</externalurl>
+  <artimage>xyz.jpg</artimage>
+</resident>
+
+<resident type="photographer">Photographer
+  <name type="studio">Slow Raod Photography</name>
+  <location type="building">2</location>
+  <location type="suite">1##</location>
+  <contact type="email">erica@slowroadphoto.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Photography</medium>
+  <externalurl>slowroadphoto.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+
+<resident type="artist">Artist
+  <name type="first_last">Karen Sontag-Sattel</name>
+  <name type="first_last">John Sattel</name>
+  <name type="studio">Studio Wa</name>
+  <location type="building">6</location>
+  <location type="suite">206</location>
+  <contact type="email">kssontag@gmail.com</contact>
+  <socialmedia type="instagram">@jes</socialmedia>
+  <medium>Printmaking</medium>
+  <externalurl>jesstudios.com</externalurl>
+  <artimage>xyz.jpg</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="studio">Upcat</name>
+  <location type="building">?</location>
+  <location type="suite">?</location>
+  <contact type="email">info@upcathardware.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>?</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Poet
+  <name type="first_last">Morgan Grace Willow</name>
+  <location type="building">7</location>
+  <location type="suite">216</location>
+  <contact type="email">mgwillow@comcast.net</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Poetry</medium>
+  <externalurl>?</externalurl>
+  <artimage>?</artimage>
+</resident>
+
+<resident type="artist">Artist
+  <name type="studio">Upcat</name>
+  <location type="building">?</location>
+  <location type="suite">?</location>
+  <contact type="email">info@upcathardware.com</contact>
+  <socialmedia type="instagram">?</socialmedia>
+  <medium>Graffiti</medium>
+  <externalurl>http://www.mtn-world.com</externalurl>
+  <artimage>?</artimage>
+</resident>
+  
+</residents>
