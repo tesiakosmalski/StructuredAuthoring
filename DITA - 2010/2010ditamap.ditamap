@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>2010DITAMap</title>
+    <title>2010 DITA Map</title>
     <topicmeta>
         <author>Tesia Kosmalski</author>
-        <category>Version 1</category>
+        <category>Version 3</category>
     </topicmeta>
-    <topicref href="Find_Event_Location_Information.dita" format="dita" type="task"  navtitle="Getting to the Building Event"/>
-        <topicref href="ArtBlok.dita" type="reference" navtitle="What is ArtBlok?" format="dita" importance="high"/> 
-        <topicref href="Events.dita"  type="reference" navtitle="ArtBlok Events" format="dita"/> 
-        <topicref href="Building_History.dita"  type="reference" navtitle="Building History" format="dita"/>
-    <topicref href="View_Event_Building_Info.dita" type="task"/>
-        <topicref href="Building_Map.dita" type="reference"/>
-    <topicref href="View_Participating_Artists.dita" type="task"/>
-        <topicref href="Residents" type="reference"/>
-    <topicref href="Download_Building_Map.dita" type="task"/>
-        <topicref href="Mediums" type="reference"/>
-        <topicref href="Artwork" type="reference"/>
-        <topicref href="Artists" type="reference"/>
-    <topicref href="Walk_to_Suite.dita" type="task"/>
-        <topicref href="Wayfinding_Markers.dita" type="reference"/>
+    <topichead navtitle="Tasks">
+        <topicref href="Find_Location_Info.dita" navtitle="Find Location Information for 2010 ArtBlok"/>
+        <topicref href="Find_ResidentSuites_byEvent.dita" navtitle="Find Residents Suites or Studios by Event"/>
+        <topicref href="Find_ResidentSuites_byMedium.dita" navtitle="Find Residents Suites or Studios by Medium"/>
+    </topichead> 
+    
+    <topichead navtitle="Concepts">
+        <topicref href="Accessiblity.dita"  type="concept" navtitle="Handicap Accessibility in the Building" format="dita"/>
+        <topicref href="ArtBlok2.dita" type="concept" navtitle="What is ArtBlok?" format="dita" importance="high"/> 
+        <topicref href="Building_Events.dita"  type="concept" navtitle="ArtBlok Events" format="dita"/> 
+        <topicref href="Building_History.dita"  type="concept" navtitle="2010 E Hennepin Building History" format="dita"/>
+        <topicref href="Mediums.dita" type="concept" navtitle="What Mediums are represented at 2010" format="dita" importance="high"/>   
+        <topicref href="Residents.dita" type="concept" navtitle="Who is a 2010 Resident?" format="dita" importance="high"/>  
+    </topichead> 
+    
+    <topichead navtitle="References">
+        <topicref href="Address.dita" type="reference" navtitle="Building Address" format="dita"/> 
+        <topicref href="Building_Map.dita" type="reference" navtitle="Full Map of Building" format="dita"/> 
+        <topicref href="Building_Summaries.dita" type="reference" navtitle="Building Summaries [Placeholder]" format="dita"/> 
+        <topicref href="Building1_Summary.dita" type="reference" navtitle="Finding the Way in Building 1 " format="dita"/> 
+        <topicref href="Building2_Summary.dita" type="reference" navtitle="Finding the Way in Building 2" format="dita"/> 
+        <topicref href="Building3_Summary.dita" type="reference" navtitle="Finding the Way in Building 3" format="dita"/> 
+        <topicref href="Building4_Summary.dita" type="reference" navtitle="Finding the Way in Building 4" format="dita"/> 
+        <topicref href="Directions.dita" type="reference" navtitle="Directions to the Building" format="dita"/> 
+        <topicref href="Event_Summaries.dita" type="reference" navtitle="Event Summaries [Placeholder]" format="dita"/>
+        <topicref href="Medium_Summaries.dita" type="reference" navtitle="Medium Summaries [Placeholder]" format="dita"/>
+        <topicref href="ResidentDetails.dita" type="reference" navtitle="Resident Details [Placeholder]" format="dita"/>
+    </topichead>
 </map>
