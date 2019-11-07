@@ -6,12 +6,18 @@
         <author>Tesia Kosmalski</author>
         <category>Version 1</category>
     </topicmeta>
-    <topicref href="findeventlocationinfo.dita" format="dita" type="task"  navtitle="Getting to the Building Event"/>
-    <topicref href="artblok.dita" type="reference" navtitle="What is ArtBlok?" format="dita" importance="high"/> 
-    <topicref href="events.dita"  type="reference" navtitle="ArtBlok Events" format="dita"/> 
-    <topicref href="buildinghistory.dita"  type="reference" navtitle="Building History" format="dita"/>
-    <topicref href="ViewEventBuildingInfo.dita" type="task"/>
-    <topicref href="building_map.dita" type="reference"/>
-    <topicref href="building_map.dita" type="task"/>
-    <topicref href="parti"
+    <topicref href="Find_Event_Location_Information.dita" format="dita" type="task"  navtitle="Getting to the Building Event"/>
+        <topicref href="ArtBlok.dita" type="reference" navtitle="What is ArtBlok?" format="dita" importance="high"/> 
+        <topicref href="Events.dita"  type="reference" navtitle="ArtBlok Events" format="dita"/> 
+        <topicref href="Building_History.dita"  type="reference" navtitle="Building History" format="dita"/>
+    <topicref href="View_Event_Building_Info.dita" type="task"/>
+        <topicref href="Building_Map.dita" type="reference"/>
+    <topicref href="View_Participating_Artists.dita" type="task"/>
+        <topicref href="Residents" type="reference"/>
+    <topicref href="Download_Building_Map.dita" type="task"/>
+        <topicref href="Mediums" type="reference"/>
+        <topicref href="Artwork" type="reference"/>
+        <topicref href="Artists" type="reference"/>
+    <topicref href="Walk_to_Suite.dita" type="task"/>
+        <topicref href="Wayfinding_Markers.dita" type="reference"/>
 </map>

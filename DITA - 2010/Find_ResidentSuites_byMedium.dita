@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="findeventlocationinformation">
+    <title>Find Residents by Medium</title>
+    <shortdesc> Find residents that use the medium you are interested in.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on "Residents"</cmd>
+            </step>
+            <step>
+                <cmd>Click on medium of interest</cmd>
+            </step>
+            <step>
+                <cmd>Download or view ‘map and directions to suites by medium'</cmd>
+            </step>
+            <step>
+                <cmd>Go to suite</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
