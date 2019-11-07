@@ -2,6 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="building_map">
     <title>Building Map</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc>This it the map of the entire building. It is in the process of being updated.</shortdesc>
+    <refbody> 
+    <image href="../DITA%20-%202010/Images/FullMap.jpg" placement="break" align="center" scale="50"/>
+    </refbody> 
 </reference>
