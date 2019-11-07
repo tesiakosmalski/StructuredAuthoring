@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="findeventlocationinformation">
-    <title>Find Resident Suites by Event</title>
+    <title>Find Residents by Event</title>
     <shortdesc> Find residents involved in events of interest.</shortdesc>
     <taskbody>
-        <context> Turn on your digital device or browsing mechanismEnter "2010ArtBlok.com" into the
-            URLwindow. Select "Building History"View the directions and address for 2010
-            ArtBlok</context>
+        <context> Turn on your digital device or browsing mechanism.</context>
         <steps id="steps_iht_kzn_qjb">
             <step>
                 <cmd>click on events or happenings</cmd>
