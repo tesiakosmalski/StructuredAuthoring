@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_r4j_rz2_qjb">
-    <title>Download Building Map </title>
-    <shortdesc></shortdesc>
+<task id="task_z5v_mnd_qjb">
+    <title>ViewEventBuildingInfo</title>
+    <shortdesc>When viewing the event info, this is where you can understand where and what to do
+        inside the building. </shortdesc>
     <taskbody>
         <context>
             <p></p>

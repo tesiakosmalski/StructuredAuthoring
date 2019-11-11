@@ -2,27 +2,26 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="findeventlocationinformation">
     <title>Find Residents by Event</title>
-    <shortdesc> Find residents involved in events of interest.</shortdesc>
-    <taskbody>
-        <context> Turn on your digital device or browsing mechanism.</context>
-        <steps id="steps_iht_kzn_qjb">
+    <shortdesc> Find residents involved in a building event of interest </shortdesc>
+    <taskbody>    
+        <prereq>Your digital device needs to be turned on and a browser open to
+            "2010ArtBlok.com."</prereq>
+        <steps id="steps_iht_kzn_qjb">   
             <step>
-                <cmd>click on events or happenings</cmd>
+                <cmd>Click links to "Events" or "Happenings"</cmd> 
             </step>
             <step>
-                <cmd> find and click event link of interest</cmd>
+                <cmd>Click link to event of interest.</cmd>
             </step>
             <step>
-                <cmd>Pick building entry point</cmd>
+                <cmd>Pick building entry point.</cmd>
             </step>
             <step>
-                <cmd>Download ‘map and directions to residents’</cmd>
+                <cmd>View or Download "Map and Directions to Residents."</cmd>
             </step>
             <step>
-                <cmd>Go to suite</cmd>
+                <cmd>Proceed to suite or studio.</cmd>
             </step>
         </steps>
     </taskbody>
 </task>
-
-

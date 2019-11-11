@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_zqs_lz2_qjb">
     <title>Residents</title>
-    <shortdesc></shortdesc>
+    <shortdesc>
+    <p conref="Building_Events.dita#BuildingEvents_Concept">...</p>
+    </shortdesc>
     <conbody>
         <p></p>
     </conbody>

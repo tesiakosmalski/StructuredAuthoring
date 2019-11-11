@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_zmc_cvn_qjb">
+<concept id="BuildingEvents_Concept">
     <title>Building Events</title>
-    <shortdesc>The ArtBlok sponsors and organizes several events in the building.</shortdesc>
+    <shortdesc>ArtBlok sponsors and organizes several public events in the building.</shortdesc>
     <conbody>
-        <p>The events include: <ul id="ul_twf_svn_qjb">
+        <p>The events include: <ul id="Events_BulletList">
                 <li>Art a Whirl</li>     
                 <li>Cabal Immersive Theater Performances by Looking Glass Theater Troupe</li>
                 <li>First Friday Open Studios </li>
