@@ -2,11 +2,17 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_jqs_5z2_qjb">
     <title>Mediums</title>
-    <shortdesc>The residents in the 2010 building engage several different mediums in the 2010 building.</shortdesc>
+    <shortdesc>The residents in the 2010 building engage several different mediums.</shortdesc>
     <refbody>
-    
-        <b>Paula Vollmar-Heywood</b>
-    
+     <p> Mediums include </p>
+        <ul id="Events_BulletList">
+            <li>Photography</li>     
+            <li>Performance</li>
+            <li>Painting</li>
+            <li>Printmaking</li>
+            <li>Glass Blowing</li>
+            <li>Interactive Technologies</li>
+        </ul>
     </refbody>
 </reference>
 
