@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_ork_zmq_qjb">
-    <title>About Building 2</title>
+    <title>Building #2 Summary</title>
     <shortdesc>Houses all types of residents and is primarily made up of old General Mills testing labs. Its color code is red.</shortdesc>
-    <refbody> <p>
-    <section> <title> </title>
-      </section> </p>
-      </section> </refbody>
+    <refbody>
+    <section><title>West Stairway</title> The West Stairway is accessible from the West Parking Lot.
+        <p>Entry to West Stairway </p>
+          <image href="Images/Building%202/weststairway_entry1.jpg"
+          id="image_nhp_f4x_rjb" height="400"/>
+        <image href="Images/Building%202/weststairway_entry2.jpg" id="image_ohp_f4x_rjb" height="400"/>
+      <p>First Floor as seen from West Stairway</p>
+      <image href="Images/Building%202/Floor1_weststairway1.jpg" height="400"/>
+      <image href="Images/Building%202/Floor1_weststairway2.jpg" height="400"/>
+      <p>Second Floor as seen from West Stairway</p>
+      <image href="Images/Building%202/Floor2_weststairway1.jpg" height="400"/>
+       </section>
+      <section><title>Residents</title></section>
+  </refbody> 
 </reference>
